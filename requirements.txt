@@ -1,0 +1,16 @@
+# RiskLens Pro Requirements
+
+# Core libraries
+streamlit
+pandas
+numpy
+plotly
+xgboost
+scikit-learn
+lime
+
+# Export functionality
+fpdf
+python-pptx
+openpyxl
+pillow
